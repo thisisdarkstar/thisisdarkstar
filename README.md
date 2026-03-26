@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Darkstar69&label=Profile%20views&color=0e75b6&style=flat" alt="darkstar" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thisisdarkstar&label=Profile%20views&color=0e75b6&style=flat" alt="darkstar" />
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Darkstar</h1>
 <h3 align="center">Leveling Up Every Day Until I can Clear All The Puzzles of My Life 😎 </h3>
 <p align="center">
@@ -23,7 +23,7 @@
 [![GIT](https://img.shields.io/badge/-Git-grey?logo=git)](#)
 [![C](https://img.shields.io/badge/-C-blue?logo=c)](#)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darkstar69&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thisisdarkstar&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
 
 - 🍳 I’m currently pursuing my career as **Cyber Security Specialist**
 - 🤔 I’m interested in <b>Reverse Engineering, Malware Development, Ai</b>
@@ -33,10 +33,10 @@
 - 🧏‍♂️ How to reach me [![Mail](https://img.shields.io/badge/-Mail-grey?logo=gmail)](mailto:thisisdarkstar@duck.com)
 - 🕺 Learning More **Programmin is so fun**
 
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darkstar69">
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=thisisdarkstar">
 
  
 <!---
-Darkstar69/Darkstar69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thisisdarkstar/thisisdarkstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
